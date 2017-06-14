@@ -7,7 +7,6 @@ library(rCharts)
 library(rdrop2)
 library(plotly)
 library(sparkline)
-library(rhandsontable)
 
 dataForCharts <- read.csv("toshiny_altm_2016_2017.csv", 
                           stringsAsFactors = F,
