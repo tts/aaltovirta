@@ -19,7 +19,8 @@ sidebar <- dashboardSidebar(
                HTML("<p>Altmetrics ", datadate, " by Altmetric</p>
                     <p>Citations ", citedate, " by WoS</p>
                     <p>Citations, tweets, and Mendeley readers also as of ", datadate2017, "</p>
-                    <p>OA fulltext link via <a href='https://oadoi.org/'>oaDOI</a>", oadate, ". Shown as a <span style='color:gold'><b>golden</b></span> stroke in scatterplot. Links in data</p>")
+                    <p>OA fulltext link via <a href='https://oadoi.org/'>oaDOI</a>", oadate, ". Shown as a <span style='color:gold'><b>golden</b></span> stroke in scatterplot. Links in data</p>
+                    <p>For more info, see <a href='https://blogs.aalto.fi/suoritin/2017/06/15/one-year-makes-a-small-difference/blog post'>this blog post</a>")
         )
       ),
     conditionalPanel(
