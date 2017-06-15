@@ -111,7 +111,7 @@ with_oadoi_uniquedois <- paste0(nrow(uniquedois[!is.na(uniquedois$X_best_open_ur
 
 
 datadate <- "2016-05-13"
-datadate2017 <- "2017-06-06"
+datadate2017 <- "2017-05-30"
 citedate <- "2016-05-13"
 oadate <- "2017-05-29"
 
