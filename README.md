@@ -1,2 +1,2 @@
 # aaltovirta
-Some altmetrics of Aalto University publications at Virta, see [blog post](https://blogs.aalto.fi/suoritin/2016/04/25/altm-q-control/)
+A Shiny [web application](https://ttso.shinyapps.io/) based on a number of (alt)metrics of Aalto University publications at VIRTA. For more info, see this [blog post](https://blogs.aalto.fi/suoritin/2017/06/15/one-year-makes-a-small-difference/)
